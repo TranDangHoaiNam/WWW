@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="com/hoangminh/config/|com/hoangminh/security/" kind="src" path="HoangMinhWeb/HoangMinhWeb/src/main/java"/>
+	<classpathentry kind="src" path="HoangMinhWeb/HoangMinhWeb/src/main/java/com/hoangminh/config"/>
+	<classpathentry kind="src" path="HoangMinhWeb/HoangMinhWeb/src/main/java/com/hoangminh/security"/>
+	<classpathentry kind="src" path="HoangMinhWeb/HoangMinhWeb/src/test/java"/>
+	<classpathentry kind="lib" path="HoangMinhWeb/HoangMinhWeb/.mvn/wrapper/maven-wrapper.jar"/>
+	<classpathentry kind="output" path="HoangMinhWeb/HoangMinhWeb/target/classes"/>
+</classpath>
